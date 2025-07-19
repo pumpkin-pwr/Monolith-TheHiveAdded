@@ -197,7 +197,13 @@
   color: "#DEBC50"
   image: /Textures/_Mono/Companies/CMG.png
 
-
+- type: company
+  id: TheHive
+  form: Protagonist
+  name: The Hive
+  description: The-Hive-description
+  color: "#5918a8"
+  
 # Black Market Companies
 
 - type: company
